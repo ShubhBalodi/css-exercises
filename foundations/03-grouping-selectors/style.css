@@ -1,0 +1,13 @@
+.A.B {
+    font-size: 36px;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+.A {
+    color: rgb(255,255,255);
+    background-color: #000;
+}
+.B {
+    color: rgb(0,0,0);
+    background-color: rgb(255,255,0);
+}
