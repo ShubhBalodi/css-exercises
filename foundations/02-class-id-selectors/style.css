@@ -1,0 +1,16 @@
+.A {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: #FFC0CB;
+}
+.B {
+    font-size: 24px;
+}
+#ID1 {
+    color: blue;
+    font-size: 36px;
+}
+#ID2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
